@@ -16,5 +16,5 @@ int main() {
 }
 tst1
 tst2
-
-3493434
+stsltj3
+1
