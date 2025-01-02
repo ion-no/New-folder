@@ -16,4 +16,3 @@ int main() {
 }
 tst1
 tst2
-stsltj3
